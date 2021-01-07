@@ -1,0 +1,2 @@
+Cd to this folder.
+Type:		node . 		and click enter
